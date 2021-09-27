@@ -35,7 +35,7 @@ public class Calculator {
             System.out.println("Error, I need the operateur between 1 to 5");
             System.exit(0);
         }
-
+        
         int operande1;
         System.out.println(" Please enter the first number :");
         operande1 = sc.nextInt();
